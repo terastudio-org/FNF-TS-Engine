@@ -46,6 +46,15 @@
 	<define name="ENHANCED_OPTIMIZATIONS" if="desktop || mobile || web" />
 	<define name="PERFORMANCE_MONITORING" if="desktop || mobile" />
 	<define name="AUTO_OPTIMIZATION" if="desktop || mobile || web" />
+	
+	<!-- ENHANCED UX AND DEBUG FEATURES -->
+	<define name="ENHANCED_MENU" if="desktop || mobile || web" />
+	<define name="ADVANCED_DEBUG_MENU" if="desktop || mobile" />
+	<define name="UI_HELPERS" if="desktop || mobile || web" />
+	<define name="DEBUG_PERFORMANCE_TRACKING" if="desktop || mobile" />
+	<define name="DEBUG_MEMORY_MONITORING" if="desktop || mobile" />
+	<define name="DEBUG_CHEAT_SYSTEM" if="desktop || mobile" />
+	<define name="THEME_CUSTOMIZATION" if="desktop || mobile || web" />
 
 	<assets path="assets/preload" rename="assets" exclude="*.ogg" if="web"/>
 	<assets path="assets/preload" rename="assets" exclude="*.mp3" unless="web"/>

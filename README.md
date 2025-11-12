@@ -1,26 +1,18 @@
 <!-- this is an secret -->
 <h1 align="center">
   <br>
-  <a href="https://github.com/JordanSantiagoYT/FNF-JS-Engine"><img src="/art/iconOG.png" alt="JSengine" width="150"></a>
+  <b>TS Engine</b>
   <br>
-  <b>JS Engine</b>
-  <br>
-  <i>(Jordan Santiago Engine)</i>
+  <i>(terastudio Engine)</i>
   <br>
 </h1>
 <h3 align="center">
-  <b>JS Engine is a heavily modified Psych Engine fork, with lower-end devices and more customization in mind.</b>
+  <b>TS Engine is a heavily modified PJs fork, with lower-end devices and more customization in mind.</b>
 </h3>
 
-<p align="center">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/JordanSantiagoYT/FNF-JS-Engine">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/JordanSantiagoYT/FNF-JS-Engine">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/JordanSantiagoYT/FNF-JS-Engine">
+
 </p>
 
-README.md revamped by [Nael2xd](https://youtube.com/@nael2xd?si=axwJrY_8jdlXUwSm)
-
-_If you're looking for the Mobile port, [go here](https://github.com/JordanSantiagoYT/FNF-JS-Engine/tree/mobile)._
 
 ## Welcome
 
@@ -63,31 +55,12 @@ There is like lots and lots of stuff i've missed, but at least you would like th
 - Gameplay from @TheStinkern
   - See the full gameplay [here](https://www.youtube.com/watch?v=Z2iXD1FbX1I)
 
-# FAQs
 
-Frequently Asked Questions (FAQs) are found in [here](https://github.com/JordanSantiagoYT/FNF-JS-Engine/wiki) or you can simply see it below.
 
-**Q: Can I use this engine for my mod(s)?**
-
-A: Yes, you can! just be sure to credit me ([@JordanSantiago on YouTube](https://www.youtube.com/@JordanSantiago)) and give a link to the Engine's github/gamebanana, or [the link to download the latest release.](https://github.com/JordanSantiagoYT/FNF-JS-Engine/releases/latest)
-
-**Q: How do I change and add things?**
-
-A: You do it here the [same way you'd do it in Psych Engine.](https://github.com/ShadowMario/FNF-PsychEngine/wiki)
-
-**Q: I found a bug!**
-
-A: Report [here.](https://github.com/JordanSantiagoYT/FNF-JS-Engine/issues) Also, **please check if there are already posts about the same issue.**
-
-**Q: I found a *WAY* to fix a bug!**
-
-A: Send [here.](https://github.com/JordanSantiagoYT/FNF-JS-Engine/pulls)
-
-# Compiling JS Engine
+# Compiling TS Engine
 
 Refer to [the Build Instructions](./BUILDING.md)
 
-If you get an error while Compiling, go [here](https://github.com/JordanSantiagoYT/FNF-JS-Engine/issues/359) to see if the issue is on there, if not, make an issue
 
 ## Customization:
 
@@ -101,8 +74,10 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 
 # Contributors
 
+@ BF667
+- IDK A
 @JordanSantiagoYT (of course)
-- He's the owner... What do you think?
+- co-owner
 
 @TheStinkern
 - Small coder
@@ -116,12 +91,6 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 @PatoFlamejanteTV
 - Small coding, also made a PDF guide for JS Engine.
 
-### The rest of the lovely contributors on GitHub! (Psych and JS Engine)
-<a href="https://github.com/JordanSantiagoYT/FNF-JS-Engine/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=JordanSantiagoYT/FNF-JS-Engine" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
 
 <details>
   <summary><h2>OG Psych Engine Credits and Stuff</h2></summary>
@@ -209,3 +178,4 @@ _____________________________________
 * Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
 * You can reset your Score on Freeplay/Story Mode by pressing Reset button.
 * You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space.
+

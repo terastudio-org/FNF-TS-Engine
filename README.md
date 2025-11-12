@@ -7,7 +7,7 @@
   <br>
 </h1>
 <h3 align="center">
-  <b>TS Engine is a heavily modified PJs fork, with lower-end devices and more customization in mind.</b>
+  <b>TS Engine is a heavily modified JS fork, with lower-end devices and more customization in mind.</b>
 </h3>
 
 
@@ -20,7 +20,7 @@ Welcome to JS Engine's github repo, where you can download the engine and make s
 
 This contains lots and lots of customizable and features built in to JS Engine, if you wanna see most of them listed, you can see it below this text
 
-# Features/Performances in JS ENGINE
+# Features/Performances in TS ENGINE
 
 **This fork has tons of features and performances features, most will be listed:**
 
@@ -178,4 +178,5 @@ _____________________________________
 * Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
 * You can reset your Score on Freeplay/Story Mode by pressing Reset button.
 * You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space.
+
 

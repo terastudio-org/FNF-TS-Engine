@@ -1,0 +1,42 @@
+{
+    "titlex": 150,
+    "titley": 100,
+    "startx": 400,
+    "starty": 580,
+    "gfx": 300,
+    "gyf": 220,
+    "backgroundSprite": "titleBG",
+    "bpm": 102,
+    "endY": 100,
+    "particles": true,
+    "trailEffects": true,
+    "glitchEffects": false,
+    "waveEffects": true,
+    "lightingEffects": true,
+    "enhancedAnimations": true,
+    "colorCycling": true,
+    "particleCount": 50,
+    "energyRings": 3,
+    "floatingTexts": 5,
+    "performanceMode": false,
+    "beatReactiveParticles": true,
+    "dynamicColors": {
+        "primary": [255, 51, 255, 255],
+        "secondary": [51, 51, 204, 255],
+        "accent1": [255, 51, 255, 255],
+        "accent2": [51, 255, 51, 255]
+    },
+    "timing": {
+        "particleSpawnRate": 0.1,
+        "colorCycleSpeed": 0.5,
+        "energyRingRotation": 30,
+        "lightRayRotation": 10
+    },
+    "effects": {
+        "logoScaleOnBeat": true,
+        "titleTextHoverEffect": true,
+        "particleBurstOnEnter": true,
+        "trailEffectStrength": 0.6,
+        "glowIntensity": 0.7
+    }
+}
